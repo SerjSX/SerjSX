@@ -33,7 +33,7 @@ Python Application Building and Data Analysis | Website Development (Frontend an
 
 ---
 
-**I'm planning to...**
+**2025-2026 Plans:**
 - Finalize a business-related GUI project in Java
 - Finalize an eCommerce project
 - Explore Data Analysis with Python deeper
