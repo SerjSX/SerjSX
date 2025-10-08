@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hello, I'm Serj! I'm a self-taught developer and an MIS undergraduate student. 
 
-As a developer, I'm interested in application development and designing database schemas with implementation, with a little bit of web development. I also play Classical Guitar on the side, and have huge interest in Dan Brown and the topics he writes his stores around.
+As a developer, I'm interested in application development and designing database schemas with implementation, with a little bit of web development. I also play Classical Guitar on the side, and have huge interest in Dan Brown and the topics he writes his stores about.
 
 ---
 
