@@ -36,7 +36,13 @@ Python Application Building and Data Analysis | Website Development (Frontend an
 **2025-2026 Plans:**
 - Finalize a business-related GUI project in Java
 - Finalize an eCommerce project
-- Explore Data Analysis with Python deeper
+- Docker
+
+---
+
+
+**2026-2027 Plans:**
+- Python for Data Analysis (coming back to it by following a course from MOOC.fi)
 - Explore Spring Boot
 - C Programming for Everybody
 
