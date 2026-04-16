@@ -27,7 +27,12 @@ Python Application Building and Data Analysis | Website Development (Frontend an
 ---
 
 **I'm currently learning...**
-- C#
+- Working on university projects
+
+**Planned:**
+- Oracle SQL
+- Oracle APEX
+- PostgreSQL
 
 
 ---
