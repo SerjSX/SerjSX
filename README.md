@@ -32,7 +32,7 @@ Python Application Building and Data Analysis | Website Development (Frontend an
 **Planned:**
 - Oracle SQL
 - Oracle APEX
-- PostgreSQL
+- PL/SQL
 
 
 ---
